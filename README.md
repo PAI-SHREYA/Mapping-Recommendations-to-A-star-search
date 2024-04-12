@@ -11,7 +11,4 @@
 <dd>KLE Technological University, Hubballi-31</dd>
 </dl>
 
-***
-1. Introduction
-2. Description
-***
+
